@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/manifoldHypothesisViz/precache-manifest.bda2cb31793f4b8e6bbdc420dba08a38.js"
+  "/manifoldHypothesisViz/precache-manifest.2efadae477e89d69795875dff4e1cbbf.js"
 );
 
 self.addEventListener('message', (event) => {
