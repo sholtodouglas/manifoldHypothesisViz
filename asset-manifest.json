@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manifoldHypothesisViz/static/css/main.fa3946b4.chunk.css",
+    "main.js": "/manifoldHypothesisViz/static/js/main.ed637009.chunk.js",
+    "main.js.map": "/manifoldHypothesisViz/static/js/main.ed637009.chunk.js.map",
+    "runtime~main.js": "/manifoldHypothesisViz/static/js/runtime~main.5ceffb18.js",
+    "runtime~main.js.map": "/manifoldHypothesisViz/static/js/runtime~main.5ceffb18.js.map",
+    "static/js/2.7d95de3f.chunk.js": "/manifoldHypothesisViz/static/js/2.7d95de3f.chunk.js",
+    "static/js/2.7d95de3f.chunk.js.map": "/manifoldHypothesisViz/static/js/2.7d95de3f.chunk.js.map",
+    "index.html": "/manifoldHypothesisViz/index.html",
+    "precache-manifest.bda2cb31793f4b8e6bbdc420dba08a38.js": "/manifoldHypothesisViz/precache-manifest.bda2cb31793f4b8e6bbdc420dba08a38.js",
+    "service-worker.js": "/manifoldHypothesisViz/service-worker.js",
+    "static/css/main.fa3946b4.chunk.css.map": "/manifoldHypothesisViz/static/css/main.fa3946b4.chunk.css.map"
+  }
+}
